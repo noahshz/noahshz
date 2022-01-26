@@ -1,6 +1,6 @@
 <h1 align="center">hi there 💎</h1>
 
-- 🌱 **I’m currently learning:** c#
+- 🌱 **currently learning:** c#
 <!--
 **noahshz/noahshz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

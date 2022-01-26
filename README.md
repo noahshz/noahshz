@@ -1,4 +1,4 @@
-<h1 align="center">hi there 💎</h1>
+<h1 align="left">hi there 💎</h1>
 
 - 🌱 **currently learning:** c#
 <!--

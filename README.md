@@ -2,7 +2,7 @@
 
 <h1 align="center">hey there🦦</h1>
 
-`Some important things about me:`
+*Some important things about me*:
 
 - 🌱 **My skills:** C#, PHP, HTML, CSS
 - 🔭 **I’m about to learn:** Python, JavaScript

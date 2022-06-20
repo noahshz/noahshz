@@ -1,15 +1,10 @@
-<h1 align="left">hi there 💎</h1>
-<!--
-**noahshz/noahshz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**noahshz/noahshz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+<h1 align="center">hey there🦦</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 **currently learning:** c#
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Some important things about me:`
+
+- 🌱 **My skills:** C#, PHP, HTML, CSS
+- 🔭 **I’m about to learn:** Python, JavaScript
+- 📫 **Contact me**: [twitter](https://twitter.com/noahshz)
+- 💻 **Website**: [noahshz.de](https://noahshz.de)

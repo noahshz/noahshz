@@ -4,7 +4,7 @@
 
 ### Some important things about me:
 
-- 🌱 **My skills:** C#, PHP, HTML, CSS, Python
-- 🔭 **I’m about to learn:** JavaScript, Sass, AngularJS, React
+- 🌱 **My skills:** C#, PHP, HTML, CSS, Python, Javascript
+- 🔭 **I’m about to learn:** Sass, AngularJS, React, C/C++
 - 📫 **Contact me:** [twitter](https://twitter.com/noahshz)
 - 💻 **Website:** [noahshz.de](https://noahshz.de)

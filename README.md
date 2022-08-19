@@ -4,7 +4,7 @@
 
 ### Some important things about me:
 
-- 🌱 **My skills:** C#, PHP, HTML, CSS, Python, Javascript
+- 🌱 **My skills:** C#, PHP, CakePHP, HTML, CSS, Python, Javascript
 - 🔭 **I’m about to learn:** Symfony, Sass, React, C/C++, Express.js
 - 📫 **Contact me:** [twitter](https://twitter.com/noahshz)
 - 💻 **Website:** [noahshz.de](https://noahshz.de)

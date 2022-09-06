@@ -4,8 +4,9 @@
 
 ### Some important things about me:
 
-- 🌱 **My skills:** C#, PHP, CakePHP, HTML, CSS, Python, Javascript
-- 🧠 **Currently learning:** Node.js, Express.js
-- 🔭 **I’m about to learn:** Symfony, Sass, React, C/C++
+- 🌱 **Languages:** C#, PHP, HTML, CSS, Python, Javascript
+- 🖼 **Frameworks:** CakePHP, Node.js, Express.js
+- 🧠 **Currently learning:** /
+- 🔭 **I’m about to learn:** Symfony, Sass, React, Vue, C/C++
 - 📫 **Contact me:** [twitter](https://twitter.com/noahshz)
 - 💻 **Website:** [noahshz.de](https://noahshz.de)

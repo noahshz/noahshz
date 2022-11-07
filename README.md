@@ -2,6 +2,10 @@
 
 <h1 align="center">hey there🦦</h1>
 
+## be water
+
+[be water my friend](https://www.youtube.com/watch?v=cJMwBwFj5nQ&ab_channel=TerryLeeMcBride)
+
 ### Some important things about me:
 
 - 🌱 **Languages:** C#, PHP, HTML, CSS, Python, Javascript

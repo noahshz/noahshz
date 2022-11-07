@@ -2,10 +2,6 @@
 
 <h1 align="center">hey there🦦</h1>
 
-## be water
-
-[be water my friend](https://www.youtube.com/watch?v=cJMwBwFj5nQ&ab_channel=TerryLeeMcBride)
-
 ### Some important things about me:
 
 - 🌱 **Languages:** C#, PHP, HTML, CSS, Python, Javascript
@@ -14,3 +10,4 @@
 - 🔭 **I’m about to learn:** Electron.js, React.js, Vue.js, Sass
 - 📫 **Contact me:** [twitter](https://twitter.com/noahshz)
 - 💻 **Website:** [noahshz.de](https://noahshz.de)
+- 💧 **?:** [be water my friend](https://www.youtube.com/watch?v=cJMwBwFj5nQ&ab_channel=TerryLeeMcBride)

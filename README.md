@@ -4,10 +4,8 @@
 
 ### Some important things about me:
 
-- 🌱 **Languages:** C#, PHP, HTML, CSS, Python, Javascript
-- 🖼 **Frameworks:** CakePHP, Node.js, Express.js
-- 🧠 **Currently learning:** C++
-- 🔭 **I’m about to learn:** Electron.js, React.js, Sass
+- 🌱 **Languages/Frameworks:** C++, PHP, Laravel, CakePHP, JavaScript, Node.js, Express.js, Python
+- 🧠 **Currently learning:** /
 - 📫 **Contact me:** [twitter](https://twitter.com/noahshz)
 - 💻 **Website:** [noahshz.de](https://noahshz.de)
 - 💧 **be water my friend:** [?](https://www.youtube.com/watch?v=cJMwBwFj5nQ&ab_channel=TerryLeeMcBride)

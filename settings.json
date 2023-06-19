@@ -1,0 +1,87 @@
+{
+    // -- General --
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 2,
+
+    // -- Workbench --
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Andromeda Italic",
+    "workbench.editorAssociations": {
+        "*.dll": "default"
+    },
+    "workbench.editor.wrapTabs": true,
+    "workbench.colorCustomizations": {
+        "statusBar.background" : "#6d0e87",
+        "statusBar.noFolderBackground" : "#263238",
+        "statusBar.debuggingBackground": "#263238",
+    },
+
+    // -- Extensions
+    "http.proxy": "http://scholzno:12345678@10.1.2.26:80",
+    "http.proxyStrictSSL": false,
+    "bracketPairColorizer.depreciation-notice": false,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "vscode-pets.theme": "forest",
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ],
+
+    // -- Other --
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",   
+    "git.ignoreMissingGitWarning": true,
+    "diffEditor.maxComputationTime": 0,
+    "php.validate.executablePath": "C:/PHP/php.exe",
+    "editor.maxTokenizationLineLength": 1000000000000000000,   
+    "hediet.vscode-drawio.theme": "min",
+    "remote.SSH.defaultForwardedPorts": [
+
+    ],    
+}

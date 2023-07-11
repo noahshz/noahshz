@@ -19,8 +19,6 @@
     },
 
     // -- Extensions
-    "http.proxy": "http://scholzno:12345678@10.1.2.26:80",
-    "http.proxyStrictSSL": false,
     "bracketPairColorizer.depreciation-notice": false,
     "bracket-pair-colorizer-2.depreciation-notice": false,
     "vscode-pets.theme": "forest",
